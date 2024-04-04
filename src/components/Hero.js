@@ -13,12 +13,16 @@ function Hero(){
    <div className="hero-btn"> 
    <button className="btn1">Shop Now</button>
    <button className="btn2">Category</button></div>
-   <div className="brand-icon">
+   <div className="shopping">
    <p> Also Available On</p>
+   </div>
+   <div className="brand-icons">
    <img src="/images/amazon.png" alt="amazon-logo" />
             <img src="/images/flipkart.png" alt="flipkart-logo" />
 
+   
    </div>
+   
  
    
             </div>
