@@ -7,7 +7,7 @@ function Hero(){
                 <p> YOUR FEET DESERVE THE BEST 
                     AND WE’RE HERE TO HELP YOU WITH OUR SHOES.
                     YOUR FEET DESERVE THE BEST AND
-                     WE’RE HERE TO HELP YOU WITH OUR SHOES.
+                     WE ARE HERE TO HELP YOU WITH OUR SHOES.
 
 </p>
    <div className="hero-btn"> 
